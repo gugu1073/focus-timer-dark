@@ -1,18 +1,18 @@
 # focus-timer-dark
 
-✅ Utilização de variáveis no CSS
+✅ variáveis no CSS
 
-✅ Utilização da propriedade clamp
+✅ propriedade clamp
 
-✅ Utilização do `display: grid
+✅ display: grid
 
-✅ Utilização da DOM no navegador
+✅ DOM no navegador
 
 ✅ Funções callbacks
 
-✅ Saber o que é recursividade
+✅ recursividade
 
-✅ Princípios do Clean Code
+✅ Clean Code
 
 ✅ Escopos
 
@@ -24,7 +24,7 @@
 
 ✅ Refatoração de código
 
-✅ Adicionar sons pelo JavaScript
+✅ Adicionando sons pelo JavaScript
 
 
 
